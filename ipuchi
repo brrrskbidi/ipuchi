@@ -1,0 +1,49 @@
+<html>
+     <title> гав гав гав гав гав  </title>
+     <body >
+         <header style="background:lightgreen">
+              <img src="https://cdn-icons-png.flaticon.com/512/1864/1864532.png"hieght=
+              "70px"width="70px">
+              <a href="#boga" style="color:black;font-size:20px;font-family:arial black;">  кто это </a>
+              <a href="#brr" style="color:black;font-size:20px;font-family:arial black;"> как стал богат </a>
+              
+         </header> 
+         <main>
+              <h1 id="boga" style="font-family:arial black;text-align:center;font-size:50px"> Ипучий <br/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNuNWny5yN4ifF81N4mPto45POXmZKRKF1g&usqp=CAU""> </h1>
+                   <p style="font-family:arial black ;font-size:20px"> ипучий- известная в интернета собака по кличке  чиро.Порода той-пудель.<br/>Ипучий очень богат и на данный момент живет в вилле во франции. Часто делает концерты  и помогает своим фанатам.</p>
+              <h1 id="brr" style="font-family:arial black;text-align:center;font-size:40px">  как стал богат<br/><img src="https://i.ytimg.com/vi/n8QV6xq6OhQ/hqdefault.jpg"> </h1>
+                   <p style="font-family:arial black;font-size:20px"> ипучий разбогател на своем бизнесе. Он продает корм фирмы"ipuchi food". Является известным предпринимателем. Содал крупнейшую в стране сеть ресторанов. Во всем этом ему помог олигарх джони который подарил ипучему все свое состояние </p>
+              <h1 style="font-family:arial black;text-align:center;font-size:40px"> где работал<br/> <img src="https://i.pinimg.com/236x/a1/d6/75/a1d6750f804d82564dfceb0af5207697.jpg">  </h1>
+                <p style="font-family:arial black;font-size:20px"> начинал свой путь с работы дворником. после чего к нему пришло осознание и он открыл свой первый бизнес. </p>
+              <h1 style="font-family:arial black;text-align:center;font-size:40px"> чем отличается от других собак </h1>
+              <table style="font-family:arial black;border-collapse:collapse;border:solid Maroon 1px">
+                   <tr style="border:solid Maroon 1px;background:LightSalmon">
+                        <td> </td>
+                        <td> глаза </td>
+                        <td> шерсть </td>
+                        <td> размер </td> 
+                        <td> состояние  </td>
+                    </tr>
+                    <tr style="border:solid Maroon 1px;background:Coral"> 
+                         <td> ипучий </td>
+                         <td>  красивые </td>
+                         <td> красивая </td>
+                         <td> небольшой </td>
+                         <td> богатый </td>
+                    </tr>
+                    <tr style="border:solid Maroon 1px;background:Tomato">
+                         <td> конкуренты </td>
+                         <td> некрасивые </td>
+                         <td> ужасная </td>
+                         <td> неподходящий </td>
+                         <td>  бедные </td>
+                    </tr>
+                        
+               </table>
+
+         </main>
+         <footer style="background:black">
+              <h3 style="color:white"> офис ипучего - арарр дом- аааоаоао.<br/> телефон- 89825134879<br/> </h3>
+         </footer>
+     </body>
+</html>
